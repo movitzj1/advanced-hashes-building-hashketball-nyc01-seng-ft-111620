@@ -10,9 +10,19 @@ def game_hash
       :players =>
 
     [
+      {
+        :player_name =>
+        :number =>
+        :shoe =>
+        :points =>
+        :reboubnds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
+      }
 
     ]
-
 
     }
     :away =>
@@ -23,7 +33,17 @@ def game_hash
 
       :players =>
       [
-        
+        {
+          :player_name =>
+          :number =>
+          :shoe =>
+          :points =>
+          :reboubnds =>
+          :assists =>
+          :steals =>
+          :blocks =>
+          :slam_dunks =>
+        }  
       ]
 
     }
