@@ -25,7 +25,7 @@ def game_hash
     ]
 
     }
-    :away =>
+    :home =>
     {
       :team_name => "Brooklyn Nets"
 
