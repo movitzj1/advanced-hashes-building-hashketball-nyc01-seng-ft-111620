@@ -27,9 +27,9 @@ def game_hash
     }
     :away =>
     {
-      :team_name =>
+      :team_name => "Brooklyn Nets"
 
-      :colors =>
+      :colors => "Black", "White"
 
       :players =>
       [
@@ -43,7 +43,7 @@ def game_hash
           :steals =>
           :blocks =>
           :slam_dunks =>
-        }  
+        }
       ]
 
     }
