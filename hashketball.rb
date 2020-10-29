@@ -29,7 +29,7 @@ def game_hash
     {
       :team_name => "Brooklyn Nets"
 
-      :colors => "Black", "White"
+      :colors => ["Black", "White"]
 
       :players =>
       [
