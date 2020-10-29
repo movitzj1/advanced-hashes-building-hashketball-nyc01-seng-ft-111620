@@ -136,3 +136,5 @@ def game_hash
     }
 
   }
+  return hash
+end
